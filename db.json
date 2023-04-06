@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Manco"
+    },
+    {
+      "name": "Darin Stracke",
+      "id": 2
+    },
+    {
+      "name": "Kristopher Gusikowski",
+      "id": 4
+    },
+    {
+      "name": "Sophia Wiza",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Fantastic Metal Ball",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Small Cotton Chair",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Plastic Computer",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Bronze Shirt",
+      "id": 24
+    },
+    {
+      "userId": 4,
+      "title": "Fantastic Cotton Chair",
+      "id": 25
+    },
+    {
+      "userId": 4,
+      "title": "Tasty Granite Cheese",
+      "id": 26
+    },
+    {
+      "userId": 2,
+      "title": "Ergonomic Metal Pants",
+      "id": 27
+    },
+    {
+      "userId": 2,
+      "title": "Ergonomic Concrete Fish",
+      "id": 28
+    },
+    {
+      "userId": 4,
+      "title": "Licensed Cotton Hat",
+      "id": 29
+    },
+    {
+      "userId": 4,
+      "title": "Fantastic Fresh Table",
+      "id": 30
+    },
+    {
+      "userId": 1,
+      "title": "Generic Soft Chips",
+      "id": 31
+    },
+    {
+      "userId": 1,
+      "title": "Refined Rubber Table",
+      "id": 32
+    },
+    {
+      "userId": 5,
+      "title": "Oriental Plastic Keyboard",
+      "id": 33
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8754",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=12783",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=30440",
+      "id": 3
+    },
+    {
+      "albumId": 33,
+      "url": "https://loremflickr.com/150/150/abstract?lock=67393",
+      "id": 4
+    },
+    {
+      "albumId": 33,
+      "url": "https://loremflickr.com/150/150/abstract?lock=68306",
+      "id": 5
+    },
+    {
+      "albumId": 33,
+      "url": "https://loremflickr.com/150/150/abstract?lock=9499",
+      "id": 6
+    },
+    {
+      "albumId": 33,
+      "url": "https://loremflickr.com/150/150/abstract?lock=20206",
+      "id": 7
+    },
+    {
+      "albumId": 33,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61231",
+      "id": 8
+    },
+    {
+      "albumId": 33,
+      "url": "https://loremflickr.com/150/150/abstract?lock=35821",
+      "id": 9
+    },
+    {
+      "albumId": 33,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4352",
+      "id": 10
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=56210",
+      "id": 11
+    }
+  ]
+}
